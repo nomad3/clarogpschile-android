@@ -1,0 +1,20 @@
+<resources>
+    <!--
+    TODO: Reemplazar por el API Key de Release antes de subir a google play.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=26:47:79:8E:E0:A9:B4:92:AC:1E:8D:81:AA:0F:B8:4A:55:18:25:35%3Bcom.samtech.gpsalert
+
+    You can also add your credentials to an existing key, using this line:
+    26:47:79:8E:E0:A9:B4:92:AC:1E:8D:81:AA:0F:B8:4A:55:18:25:35;com.samtech.gpsalert
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+
+    AIzaSyDela4IjeBEQ6c7b3ViekRjmcMZw6LBp_s <- nuevo
+
+   AIzaSyAN5oh-S_SU50LSN4kmhENGrjybnYPLVRk <- anterior
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyAN5oh-S_SU50LSN4kmhENGrjybnYPLVRk</string>
+</resources>
